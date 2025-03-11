@@ -1,0 +1,1 @@
+Simple calculator app design with basic js 
